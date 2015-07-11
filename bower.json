@@ -1,0 +1,27 @@
+{
+  "name": "Dinas Perkebunan Jeneponto",
+  "version": "0.0.1",
+  "authors": [
+    "Hansen Makangiras <hansenmakangiras@gmail.com>"
+  ],
+  "description": "Ini adalah website resmi Pemerintah Daerah Kabupaten Jeneponto",
+  "keywords": [
+    "jeneponto",
+    "informasi",
+    "website",
+    "dinas",
+    "perkebunan"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.5"
+  }
+}
